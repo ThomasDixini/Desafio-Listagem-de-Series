@@ -15,6 +15,8 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 
 A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
+# Resultado do Desafio
+
 <img src="src/assets/ezgif.com-gif-maker.gif" alt="" width="1000"/>
 
-# Resultado do Desafio
+

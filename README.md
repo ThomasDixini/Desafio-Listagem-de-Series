@@ -14,3 +14,5 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.
 
 A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
+
+<img src="./assets/ezgif.com-gif-maker.gif" alt="" />
